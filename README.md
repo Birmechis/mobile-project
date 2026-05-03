@@ -13,6 +13,9 @@ A Flutter mobile application that provides real-time weather information using t
 - **User Profile** - Store and edit your name and email.
 - **Persistent Settings** - Preferences and favorites are saved locally using SharedPreferences.
 
+
+- **Loom Link** - https://www.loom.com/share/63bef913db0740faae34eb30b878d37c 
+
 ## Group Members
 
 | Name | ID |
